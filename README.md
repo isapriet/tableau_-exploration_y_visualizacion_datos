@@ -1,2 +1,5 @@
-# tableau_-exploration_y_visualizacion_datos
-Exploración y visualización de datos realizado con Tableau
+# Tableau_Data_Visualization
+
+Este repositorio tiene como objetivo ayudar a cuatro amigos que planean ir de vacaciones a Madrid a encontrar el lugar perfecto en el centro de la ciudad. Para lograr esto, se utiliza un conjunto de datos de Airbnb, específicamente el archivo Listing.csv que contiene información relevante sobre las propiedades en Madrid.
+
+Se utiliza Tableau para explorar y visualizar los datos, creando un Dashboard que facilita la toma de decisiones sobre dónde hospedarse en Madrid Centro.
